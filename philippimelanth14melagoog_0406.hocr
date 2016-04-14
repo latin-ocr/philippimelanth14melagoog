@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./philippimelanth14melagoog_0406.png"; bbox 0 0 4778 6240; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1746 187 2258 381">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1746 187 2258 381">
+     <span class='ocr_line' id='line_1_1' title="bbox 1746 187 2258 381; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1746 188 1793 380; x_wconf 84' lang='lat' dir='ltr'>M</span> <span class='ocrx_word' id='word_1_2' title='bbox 1826 187 2258 381; x_wconf 87' lang='lat' dir='ltr'>MMMMMMMM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1808 400 2256 473">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1808 400 2256 473">
+     <span class='ocr_line' id='line_1_2' title="bbox 1808 400 2256 473; baseline 0.005 -2.28"><span class='ocrx_word' id='word_1_3' title='bbox 1808 400 1916 472; x_wconf 92' lang='grc'>244</span> <span class='ocrx_word' id='word_1_4' title='bbox 1949 400 2029 472; x_wconf 86' lang='grc'>038</span> <span class='ocrx_word' id='word_1_5' title='bbox 2062 400 2142 473; x_wconf 80' lang='grc'>375</span> <span class='ocrx_word' id='word_1_6' title='bbox 2176 400 2256 473; x_wconf 87' lang='grc'>895</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2394 6240">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2394 6240">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2394 6240; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 2394 6240; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
